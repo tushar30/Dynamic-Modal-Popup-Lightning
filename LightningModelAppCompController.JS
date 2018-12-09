@@ -24,8 +24,4 @@
                             }
                            );
     },
-    /* $A.createComponents([
-            [component.get("v.bodyComponent"),{"component":component.get("v.bodyComponent"),}],
-            ["c:LightningModelFooterComp",{}]
-        ],*/
-})
+   })
